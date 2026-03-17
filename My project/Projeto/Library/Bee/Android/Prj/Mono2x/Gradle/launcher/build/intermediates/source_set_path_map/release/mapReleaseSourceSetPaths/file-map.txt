@@ -1,0 +1,8 @@
+edu.ifpr.Fazendeiro.launcher-pngs-0 C:\Users\IFPR\Downloads\My project\Projeto\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+edu.ifpr.Fazendeiro.launcher-resValues-1 C:\Users\IFPR\Downloads\My project\Projeto\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+edu.ifpr.Fazendeiro.launcher-packageReleaseResources-2 C:\Users\IFPR\Downloads\My project\Projeto\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+edu.ifpr.Fazendeiro.launcher-packageReleaseResources-3 C:\Users\IFPR\Downloads\My project\Projeto\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+edu.ifpr.Fazendeiro.launcher-release-4 C:\Users\IFPR\Downloads\My project\Projeto\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release\mergeReleaseResources
+edu.ifpr.Fazendeiro.launcher-main-5 C:\Users\IFPR\Downloads\My project\Projeto\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+edu.ifpr.Fazendeiro.launcher-release-6 C:\Users\IFPR\Downloads\My project\Projeto\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+edu.ifpr.Fazendeiro.launcher-release-7 C:\Users\IFPR\Downloads\My project\Projeto\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release\packageReleaseResources

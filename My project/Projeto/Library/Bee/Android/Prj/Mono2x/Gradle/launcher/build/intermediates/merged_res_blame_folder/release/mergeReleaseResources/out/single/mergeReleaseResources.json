@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "edu.ifpr.Fazendeiro.launcher-release-4:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "edu.ifpr.Fazendeiro.launcher-main-5:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "edu.ifpr.Fazendeiro.launcher-release-4:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "edu.ifpr.Fazendeiro.launcher-main-5:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "edu.ifpr.Fazendeiro.launcher-release-4:/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "edu.ifpr.Fazendeiro.launcher-main-5:/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "edu.ifpr.Fazendeiro.launcher-release-4:/mipmap-mdpi_app_icon.png.flat",
+        "source": "edu.ifpr.Fazendeiro.launcher-main-5:/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "edu.ifpr.Fazendeiro.launcher-release-4:/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "edu.ifpr.Fazendeiro.launcher-main-5:/mipmap-anydpi-v26/app_icon_round.xml"
+    }
+]
